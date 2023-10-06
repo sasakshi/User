@@ -1,0 +1,100 @@
+.shadow_sign{
+    display:grid;
+    place-items: center;
+    height:1000vh;
+    background-color: whitesmoke 
+  }
+  .backcolo{
+    background-color:#6CB4EE;
+    top: 0;
+    left: 0;
+    /* zIndex: -1; */
+    position:fixed;
+    width:100vw;
+    height:100vh
+  }
+  .box_sign{
+    display:flex;
+    border-radius: 25px;
+    margin-left: 410px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color:#F8F8FF;
+    /* margin-top: -2vh; */
+    margin-right: -20px; ;
+    height:80vh;
+    width:40vw;
+    box-shadow: -1px 4px  20px -6px rgba(0, 0, 0, 0.75);
+    align-items:"center";
+    justify-content:"center"
+  }
+  
+  .Usersign{
+    display:flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 160px;
+    margin-left: 70px;
+    /* width: 100px; */
+    padding: 5px 30px;
+    position:center;
+    font-size: 16px;
+  }
+  
+  .Passsign{
+    display:flex;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    margin-right: 160px;
+    margin-left: 70px;
+    /* width: 100px; */
+    padding: 5px 30px;
+    position: center;
+    font-size: 16px;
+  }
+
+  .Emailsign{
+    display:flex;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    margin-right: 160px;
+    margin-left: 70px;
+    /* width: 100px; */
+    padding: 5px 30px;
+    position: center;
+    font-size: 16px;
+  }
+  .Phnsign{
+    display:flex;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    margin-right: 160px;
+    margin-left: 70px;
+    /* width: 100px; */
+    padding: 5px 30px;
+    position: center;
+    font-size: 16px;
+  }
+  .Subsign{
+    background-color:#F9629F;
+    border: none;
+    color:dark grey;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 160px;
+    margin-left: 70px;
+    padding: 5px 30px;
+    font-weight:bold
+  }
+  
+  .headingsign{
+    margin-top: 30px;
+    /* margin-bottom: 10px; */
+    margin-right: 260px;
+    margin-left: 10px;
+    color: #F9629F;
+  }

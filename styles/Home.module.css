@@ -1,0 +1,134 @@
+.shadow_in{
+  display:grid;
+  place-items: center;
+  height:100vh;
+  background-color: whitesmoke 
+}
+
+.box_in{
+  display:flex;
+  border-radius: 25px;
+  margin-left: 410px;
+  margin-top: 100px;
+  background-color:#F8F8FF;
+  /* margin-top: -2vh; */
+  margin-right: -20px; ;
+  height:50vh;
+  width:40vw;
+  box-shadow: -1px 4px  20px -6px rgba(0, 0, 0, 0.75);
+  align-items:"center";
+  justify-content:"center"
+}
+
+.User{
+  display:flex;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 160px;
+  margin-left: 70px;
+  /* width: 100px; */
+  padding: 5px 30px;
+  position:center;
+  font-size: 16px;
+}
+
+.Pass{
+  display:flex;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  margin-right: 160px;
+  margin-left: 70px;
+  /* width: 100px; */
+  padding: 5px 30px;
+  position: center;
+  font-size: 16px;
+}
+
+.Sub{
+  background-color: #1ca9c9;
+  border: none;
+  color:dark grey;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 160px;
+  margin-left: 70px;
+  padding: 5px 30px;
+  font-weight:bold
+}
+
+.heading{
+  margin-top: 30px;
+  /* margin-bottom: 10px; */
+  margin-right: 260px;
+  margin-left: 10px;
+}
+
+.For_m{
+ color:dark grey;
+ background-color:#7CB9E8; 
+ font-size: 16px;
+ border: none;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ margin-top: 30px;
+ padding: 5px 30px;
+ margin-right: 100px;
+ font-weight:bold
+}
+
+.For_Clear{
+  color:dark grey;
+  background-color: goldenrod; 
+  font-size: 16px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 30px;
+  padding: 5px 30px;
+  margin-right: 100px;
+  font-weight:bold
+}
+
+.changing{
+background-color:#7CB9E8;
+  width: 100px;
+  font-weight: bold;
+}
+
+.closing{
+  color:black;
+  font-weight: bold;
+  margin-left: 400px;
+  position: relative;
+}
+
+.Up{
+  background-color:darkgray;
+  border: none;
+  color:dark grey;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  margin-right: 160px;
+  margin-left: 400px;
+  padding: 5px 30px;
+  font-weight:bold
+}
+
+.images{
+  min-height: 380px;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
